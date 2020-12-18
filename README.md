@@ -38,6 +38,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 
 Routes
+-
 -Home page.
 -List all routes that are available.
 /api/v1.0/precipitation
